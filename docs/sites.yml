@@ -1736,9 +1736,10 @@
   categories:
     - Portfolio
     - Web Dev
+    - featured
   built_by: Peter Hironaka
   built_by_url: https://github.com/PHironaka
-  featured: false
+  featured: true
 - title: Michael McQuade
   description: >
     Personal website and blog for Michael McQuade
